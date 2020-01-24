@@ -54,5 +54,11 @@ def find_user():
     remark_name = 'lee'
 
 
+# 正则单号
+def regular_order_num():
+    # todo 正则单号
+    print()
+
+
 ret = order_num_pattern()
 print(ret)
