@@ -2,7 +2,7 @@
 import pymysql
 import db
 
-USER_ID = 17
+USER_ID = 18
 WITHDRAW_LIMIT = 50
 WITHDRAW_TIMES = 1
 
