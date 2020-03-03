@@ -2,7 +2,7 @@
 import pymysql
 import db
 
-ORDER_ID = 30
+ORDER_ID = 31
 USER_ID = 999
 COMMISSION_RATE = 0.75
 
