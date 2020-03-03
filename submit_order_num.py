@@ -2,7 +2,7 @@
 import pymysql
 import db
 
-ORDER_ID = 'test upload21'
+ORDER_ID = 'test upload22'
 USER_ID = 999
 COMMISSION_RATE = 0.75
 
